@@ -1,4 +1,4 @@
-- 🌻 Hello, I’m Hannah Celemen. Welcome to my page!
+- 🌻 Hello, I’m Hannah(she/her). Welcome to my page!
 - 🏥 Previously, I worked as a medical assistant and medical coordinator for 6 years before deciding to fully transition to software development! 
 - 📚 I am currently a Turing student working towards my certificate in Front-End Development.
 - 🐾 I have two mischievous, silly ferrets that I absolutely adore! They keep me company and steal my erasers whenever they're not sleeping for 14 hours. 🤪
